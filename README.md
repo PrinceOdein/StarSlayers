@@ -18,7 +18,7 @@ StarSlayers (SLAY) is an ERC20 token deployed on the Ethereum blockchain, specif
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/starslayers-token.git
+   git clone https://github.com/PrinceOdein/StarSlayers.git
    cd starslayers-token
    ```
 
